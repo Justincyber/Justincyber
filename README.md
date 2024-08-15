@@ -43,4 +43,4 @@
 
 <!-- Footer Section -->
 <hr>
-<p>RIP the GOAT Jim Moran </p>
+<p>RIP the GOAT Jim Moran and remember to create value </p>
