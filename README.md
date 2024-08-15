@@ -9,7 +9,7 @@
   <li><strong>🎓 Education:</strong> BAS Information Technology with a specalization in Cyber Security</li>
   <li><strong>💼 Current Role:</strong> Cyber Security Analyst at JM Family</li>
   <li><strong>🌍 Location:</strong> Deerfield Beach</li>
-  <li><strong>📚 Learning:</strong> Microsoft Certified: Security, Compliance, and Identity Fundamentals, CompTia CYSA+</li>
+  <li><strong>📚 Learning:</strong> Microsoft Certified: Security, Compliance, and Identity Fundamentals, CompTIA CYSA+</li>
 </ul>
 
 <!-- Skills Section with GIF -->
