@@ -17,7 +17,7 @@
 <p>Here are some technologies I'm skilled in:</p>
 <ul>
   <li><strong>Languages:</strong> Python, C#</li>
-  <li><strong>Tools & Platforms:</strong> Wireshark, Npad, Zenmap Git</li>
+  <li><strong>Tools & Platforms:</strong> Wireshark, Npap, Zenmap Git</li>
 </ul>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2c5eXFjYjBxMXR3eTkzeTQxb2hvYTBqeHY5b3ZwbWVwbHpkaWVocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCqFYAVjjDksg/200.webp" alt="Tech GIF" width="300" />
 
