@@ -1,6 +1,6 @@
 <!-- Header Section with GIF -->
 <h1>Hi there, I'm <strong>Justin Mullings</strong> 👋</h1>
-<p>Welcome to my GitHub profile! I'm a <strong>Cyber Security Analyst</strong> passionate about <strong> learning about new technologies especially in the Cyber/ InfoSec environment</strong>.</p>
+<p>Welcome to my GitHub profile! I'm a <strong>Cyber Security Analyst</strong> passionate about <strong> learning new technologies especially in the Cyber/ InfoSec environment</strong>.</p>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmluYTNhaGtwdWFweWFpbHYwZnc1OHJhczgwZTlyajB1eWN6MzNxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif" alt="Welcome GIF" width="300" />
 
 <!-- About Me Section -->
